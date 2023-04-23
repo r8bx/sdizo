@@ -1,1 +1,1 @@
-# sdizo
+# Struktury danych i dłożoność obliczeniowa
