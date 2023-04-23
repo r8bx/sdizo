@@ -1,0 +1,5 @@
+-------------------------------------------------
+MeanTime: 0.0286045 s
+RepeatCount: 10
+Algorithm: counting_sort
+Instance size: 1000000
