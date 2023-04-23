@@ -1,1 +1,1 @@
-# Struktury danych i dłożoność obliczeniowa
+# Struktury danych i złożoność obliczeniowa
